@@ -1,6 +1,6 @@
 - 👋🏽 Hi, I’m Imtiaz Raqib
 - 🧑🏽‍💻 I’m the Chief Technology Officer @ <a href="https://helloarii.com" target="_blank">Arii Guest Services Inc.</a>
-- 🌱 I’m currently working on a secret project that will revolutionize the shopping industry.
+- 🌱 I’m currently working on a secret project that will revolutionize the personal guest experience industry.
 - 📫 You can reach me via <a href="mailto:imtiazraqib@gmail.com">E-mail</a> or <a href="https://www.linkedin.com/in/imtiazraqib/" target="_blank">LinkedIn</a>
 
 <!---
