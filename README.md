@@ -20,8 +20,6 @@ Welcome to my GitHub page! I am currently the CTO at [Arii](https://helloarii.co
 
 ## What I'm Working On
 
-I’m currently dedicating my skills and time to developing Arii, a platform that aims to redefine how businesses engage with their customers. Learn more about our mission and services:
-
-[![Arii](https://img.shields.io/badge/Visit-Arii-ff69b4?style=flat-square)](https://helloarii.com)
+I’m currently dedicating my skills and time to developing Arii, a platform that aims to redefine how businesses engage with their customers. Learn more about [![Arii](https://img.shields.io/badge/Visit-Arii-ff69b4?style=flat-square)](https://helloarii.com)
 
 Feel free to reach out if you're interested in tech, startups, or just want to chat!
