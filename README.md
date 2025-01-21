@@ -1,6 +1,6 @@
 # Hi there, I'm Imtiaz Raqib! 👋🏽
 
-![CTO](https://img.shields.io/badge/Chief%20Technology%20Officer-Arii-blue?style=flat-square)
+![CTO](https://img.shields.io/badge/Frontend%20Developer%20and%20CTO-Arii-blue?style=flat-square)
 
 Welcome to my GitHub page! I am currently the CTO at [Arii](https://helloarii.com), working on a SaaS platform designed to revolutionize the customer experience industry.
 
