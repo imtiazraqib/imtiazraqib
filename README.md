@@ -6,7 +6,7 @@ Welcome to my GitHub page! I am currently the CTO at [Arii](https://helloarii.co
 
 ## About Me
 
-- 🧑🏽‍💻 **Chief Technology Officer** at [Arii](https://helloarii.com)
+- 🧑🏽‍💻 **Frontend Developer & CTO** at [Arii](https://helloarii.com)
 - 🌱 **Building:** A cutting-edge SaaS that enhances customer interactions.
 - 👀 **Interested in:** Innovative tech solutions that improve everyday life.
 - 📚 **Learning:** Constantly exploring new technologies and methodologies to stay ahead in the tech scene.
